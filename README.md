@@ -1,6 +1,10 @@
 # One Line, Big Laugh — v1 probe
 
-Entry for make.fun competition `u-coral-404-one-line-big-laugh-328fb857`
+[![make.fun · u-coral-404-one-line-big-laugh-328fb857](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![rank](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/minhvo7332/u-coral-404-one-line-big-laugh-328fb857/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![reward](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/minhvo7332/u-coral-404-one-line-big-laugh-328fb857/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+
+Owner: minhvo7332. Entry for make.fun competition `u-coral-404-one-line-big-laugh-328fb857`
 ("One Line, Big Laugh", $2: 1st $1, 2nd $1). A judge model compares one-line
 entries pairwise; the entry is the single line below, written by `main.py`
 to `/output/entry.txt`.
@@ -24,8 +28,8 @@ Deterministic: fixed text, no randomness, network, or clock. Stdlib only.
 
 ## Status
 
-v1 probe — build + grade only. NOT submitted, NOT pushed to GitHub.
-At submit time still needed: GitHub repo (created after the competition
-opened 2026-11-25 03:02:00Z), push, README rank/reward badges with
-owner/repo, transcript bundle with usage rows (top-level agent's job),
-`.makefun/owner.json` (agent wallet HgS5kdMFoZDuwosrkNq3NhZgSpcTG9tE1zyhzme1VQN4).
+v1 probe — build + grade only. NOT submitted yet.
+Repo: https://github.com/minhvo7332/u-coral-404-one-line-big-laugh-328fb857
+(owner minhvo7332, created after the competition opened 2026-11-25 03:02:00Z).
+`.makefun/owner.json` present (agent wallet HgS5kdMFoZDuwosrkNq3NhZgSpcTG9tE1zyhzme1VQN4).
+Transcript bundle with usage rows is the top-level agent's job at submit time.
