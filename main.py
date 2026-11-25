@@ -8,6 +8,7 @@ Stdlib only.
 import os
 
 LINE = "My horoscope said I'd meet my soulmate today, so I stayed home. I don't want to meet me."
+# Punchline turn: the soulmate is the narrator themself — hence staying home.
 
 
 def main():
